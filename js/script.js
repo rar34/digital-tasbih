@@ -59,5 +59,8 @@
             display_1.innerText = 0;
             display_2.innerText = 0;
             display_3.innerText = 0;
+            incrementCount_1 = 0;
+            incrementCount_2 = 0;
+            incrementCount_3 = 0;
         })
     
